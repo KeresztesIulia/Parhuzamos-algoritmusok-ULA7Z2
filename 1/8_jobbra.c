@@ -5,22 +5,21 @@
 
 int main()
 {
-    srand(time(0));
     int n = 10, max_len = 8;
+    srand(time(0));
     for(int i = 0; i<n; i++)
     {
+        int n_digits, rand_nr = rand();
         printf("             ");
-        int rand_nr = rand();
-        int nr_len;
         if(rand_nr != 0)
         {
-            nr_len = floor(log10(rand_nr))+1;
+            n_digits = floor(log10(rand_nr))+1;
         }
         else
         {
-            nr_len = 1;
+            n_digits = 1;
         }
-        for(int j = 0; j<n-nr_len; j++)
+        for(int j = 0; j<n-n_digits; j++)
         {
             printf("0");
         }
