@@ -5,9 +5,9 @@
 
 int main()
 {
-    int n = 10, max_len = 8;
+    int n = 10, max_len = 8, i, j;
     srand(time(0));
-    for(int i = 0; i<n; i++)
+    for(i = 0; i<n; i++)
     {
         int n_digits, rand_nr = rand();
         printf("             ");
@@ -19,7 +19,7 @@ int main()
         {
             n_digits = 1;
         }
-        for(int j = 0; j<n-n_digits; j++)
+        for(j = 0; j<n-n_digits; j++)
         {
             printf("0");
         }
