@@ -1,0 +1,8 @@
+1000: iter_time - 0.000000, openMP_for_time - 0.000000, openMP_red_time: 0.000000
+100: iter_time - 0.000000, openMP_for_time - 0.000000, openMP_red_time: 0.000000
+100000: iter_time - 0.016000, openMP_for_time - 0.015000, openMP_red_time: 0.000000
+10000: iter_time - 0.000000, openMP_for_time - 0.000000, openMP_red_time: 0.000000
+100000: iter_time - 0.015000, openMP_for_time - 0.016000, openMP_red_time: 0.000000
+10000: iter_time - 0.000000, openMP_for_time - 0.000000, openMP_red_time: 0.000000
+1000: iter_time - 0.000000, openMP_for_time - 0.000000, openMP_red_time: 0.000000
+100000: iter_time - 0.000000, openMP_for_time - 0.000000, openMP_red_time: 0.000000

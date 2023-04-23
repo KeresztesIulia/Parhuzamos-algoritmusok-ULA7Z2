@@ -1,0 +1,5 @@
+1000: rec_time - 0.000000, iter_time - 0.000000
+100000: rec_time - 0.031000, iter_time - 0.000000
+1000000: rec_time - 0.126000, iter_time - 0.000000
+1000000: rec_time - 0.126000, iter_time - 0.000000
+99999999: rec_time - 9.956000, iter_time - 0.967000
